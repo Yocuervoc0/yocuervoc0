@@ -9,4 +9,4 @@ My professional focus has been building scalable microservices and high-performa
  
 I'm an AI agents enthusiast — I love exploring how LLMs and autonomous agents can transform the way we build and interact with software. On the side, I work on personal projects using **React** and **NestJS**, where I experiment with new ideas, architectures, and integrations.
  
-I hold a degree in Systems and Computer Engineering from [Universidad Nacional de Colombia](https://unal.edu.co/).
+I hold a degree in Systems and Computer Engineering from [Universidad Nacional de Colombia](https://unal.edu.co/), one of the top-ranked universities in Latin America.
